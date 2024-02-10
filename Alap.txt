@@ -1,3 +1,5 @@
-Master branch első commit. "C branch módosítás"
+
+Master branch első commit. "Először volt C branch módosítás , majd volt B branch módosítás"
+
 
 Beolvasom a jelszo.txt-ből az adatbázis felhasználó nevét és jelszavát, amely alapján cstlakozom a szoftverből a rendszer adatbázishoz.
